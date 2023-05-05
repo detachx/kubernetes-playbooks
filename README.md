@@ -82,6 +82,7 @@ Destroy the cluster when done:
 
 ## Credits
 Based on bsder's Digital Ocean tutorial «[How To Create a Kubernetes 1.11 Cluster Using Kubeadm on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-kubernetes-1-11-cluster-using-kubeadm-on-ubuntu-18-04)».
+
 Local Kubernetes cluster with flannel, metallb and traefik «Local Kubernetes cluster with flannel, metallb and traefik].(https://github.com/Thoorium/kubernetes-local-cluster-flannel-metallb-traefik/tree/master)
 
 ## License
