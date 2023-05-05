@@ -8,7 +8,7 @@ spec:
   entryPoints:
     - web
   routes:
-  - match: Host(`traefik-ui.kube`)
+  - match: Host(`traefik.virtual.local`)
     kind: Rule
     services:
     - name: traefik-dashboard
